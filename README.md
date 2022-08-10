@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to tech stuff
 - ⚡ Fun fact: I love to eat
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=digantadatta&theme=blue-green)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=digantadatta&show_icons=true)
