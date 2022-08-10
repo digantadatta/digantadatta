@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to eat
 
 ## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=digantadatta&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=digantadatta&show_icons=true&theme=blue-green)
 --------------------------------------------------------------------
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=digantadatta)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=digantadatta&theme=blue-green)
 --------------------------------------------------------------------
 ## 3. Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
