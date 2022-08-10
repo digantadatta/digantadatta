@@ -17,10 +17,5 @@ Here are some ideas to get you started:
 --------------------------------------------------------------------
 ## 3. Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
---------------------------------------------------------------------
-## 4. Profile View Counter
-<img src="https://komarev.com/ghpvc/?username=digantadatta"/>
-### HITS
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/digantadatta/)
-------------------------------------
+<img src="https://komarev.com/ghpvc/?username=digantadatta"/>
