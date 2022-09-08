@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to tech stuff
 - ⚡ Fun fact: I fear of being robbed for no reason 
 
-## 1. GitHub Stats
+## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=digantadatta&show_icons=true&theme=blue-green)
 --------------------------------------------------------------------
-## 2. Most Used Languages
+## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=digantadatta&theme=blue-green)
 --------------------------------------------------------------------
-## 3. Here is a random joke that'll make you laugh!
+## Dont Forget to laugh, So here it is!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <img src="https://komarev.com/ghpvc/?username=digantadatta"/>
