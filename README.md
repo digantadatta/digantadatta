@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about anything related to tech stuff
-- ⚡ Fun fact: I love to eat
+- ⚡ Fun fact: I fear of being robbed for no reason 
 
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=digantadatta&show_icons=true&theme=blue-green)
